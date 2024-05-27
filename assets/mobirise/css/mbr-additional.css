@@ -1195,7 +1195,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-sgRI0OutEw .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: 90.625vh;
+    max-height: 92.5vh;
   }
 }
 .cid-sgRI0OutEw .collapsed button.navbar-toggler {
@@ -1547,13 +1547,13 @@ section.lazy-placeholder:after {
 }
 .cid-udXlHRpyj1 .second-card-title {
   text-align: center;
-  color: #000000;
+  color: #fafafa;
 }
 .cid-udXlHRpyj1 .second-card-subtitle {
   text-align: center;
 }
 .cid-udXlHRpyj1 .second-card {
-  background-color: #d4e7eb;
+  background-color: #ec1818;
 }
 .cid-udXlHRpyj1 .second-card-wrap {
   margin: auto 0;
@@ -1568,6 +1568,7 @@ section.lazy-placeholder:after {
 .cid-udXlHRpyj1 .second-card-subtitle,
 .cid-udXlHRpyj1 .second-btn {
   text-align: center;
+  color: #fafafa;
 }
 .cid-udXlHRpyj1 .card {
   border-radius: 0 !important;
@@ -1602,13 +1603,13 @@ section.lazy-placeholder:after {
 }
 .cid-udY13w7khY .second-card-title {
   text-align: center;
-  color: #000000;
+  color: #fafafa;
 }
 .cid-udY13w7khY .second-card-subtitle {
   text-align: center;
 }
 .cid-udY13w7khY .second-card {
-  background-color: #d4e7eb;
+  background-color: #ec1818;
 }
 .cid-udY13w7khY .second-card-wrap {
   margin: auto 0;
@@ -1623,6 +1624,7 @@ section.lazy-placeholder:after {
 .cid-udY13w7khY .second-card-subtitle,
 .cid-udY13w7khY .second-btn {
   text-align: center;
+  color: #fafafa;
 }
 .cid-udY13w7khY .card {
   border-radius: 0 !important;
@@ -1654,13 +1656,13 @@ section.lazy-placeholder:after {
 }
 .cid-udY3CUknAt .second-card-title {
   text-align: center;
-  color: #000000;
+  color: #fafafa;
 }
 .cid-udY3CUknAt .second-card-subtitle {
   text-align: center;
 }
 .cid-udY3CUknAt .second-card {
-  background-color: #d4e7eb;
+  background-color: #ec1818;
 }
 .cid-udY3CUknAt .second-card-wrap {
   margin: auto 0;
@@ -1675,6 +1677,7 @@ section.lazy-placeholder:after {
 .cid-udY3CUknAt .second-card-subtitle,
 .cid-udY3CUknAt .second-btn {
   text-align: center;
+  color: #fafafa;
 }
 .cid-udY3CUknAt .card {
   border-radius: 0 !important;
